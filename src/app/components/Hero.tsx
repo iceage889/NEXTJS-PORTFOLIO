@@ -5,10 +5,10 @@ import { Spotlight } from "./ui/spot-light-effect";
 export default function Hero() {
   return (
     <section id="home">
+      <Spotlight fill="white" className="top-10 left-10" />
+      <Spotlight fill="white" className="-top-60 -left-50" />
+      <Spotlight fill="indigo" className="-top-20 -right-20" />
       <div className="overflow-hidden relative h-[90vh] lg:h-screen">
-        <Spotlight fill="white" className="top-10 left-10" />
-        <Spotlight fill="white" className="-top-60 -left-50" />
-        <Spotlight fill="indigo" className="-top-20 -right-20" />
         <div className="relative flex h-[50rem] w-full items-center justify-center bg-white dark:bg-black">
           <div
             className={cn(
