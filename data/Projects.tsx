@@ -4,9 +4,9 @@ export const Projects = [
     projectTitle: "Modern Next.js Dashboard",
     projectDescription:
       "A sleek, responsive admin dashboard built with Next.js and Tailwind CSS.",
-    projectImage: "/images/project-1.png",
-    projectPreviewLink: "https://modern-dashboard-demo-egbontech.vercel.app",
-    projectSourceCode: "https://github.com/emmanuel/nextjs-dashboard",
+    projectImage: "/public/images/eco-page.png",
+    projectPreviewLink: "#",
+    projectSourceCode: "https://github.com/iceage889/my-epage",
   },
   {
     id: 2,
@@ -14,7 +14,7 @@ export const Projects = [
     projectDescription:
       "A clean, modern blog built with Next.js App Router and Tailwind CSS.",
     projectImage: "/images/project-2.png",
-    projectPreviewLink: "https://emmanuel-blog-egbontech.vercel.app",
-    projectSourceCode: "https://github.com/emmanuel/blog-website",
+    projectPreviewLink: "#",
+    projectSourceCode: "https://github.com/iceage889/nextj",
   },
 ];
