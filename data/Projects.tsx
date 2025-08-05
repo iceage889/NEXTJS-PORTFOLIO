@@ -1,7 +1,7 @@
 export const Projects = [
   {
     id: 1,
-    projectTitle: "Economics website",
+    projectTitle: "Economics",
     projectDescription:
       "A sleek, responsive admin dashboard built with Next.js and Tailwind CSS.",
     projectImage: "/public/images/eco-page.png",
