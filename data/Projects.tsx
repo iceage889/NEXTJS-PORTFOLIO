@@ -13,7 +13,7 @@ export const Projects = [
     projectTitle: "Minimalist Blog Website",
     projectDescription:
       "A clean, modern blog built with Next.js App Router and Tailwind CSS.",
-    projectImage: "/images/project-2.png",
+    projectImage: "/images/eco-web.png",
     projectPreviewLink: "#",
     projectSourceCode: "https://github.com/iceage889/nextj",
   },
