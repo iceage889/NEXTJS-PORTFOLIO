@@ -36,7 +36,7 @@ export default function RecentProject() {
                   rotateZ={-10}
                   className="w-full mt-4"
                 >
-                  <img
+                  <Image
                     src={projects.projectImage}
                     height="1000"
                     width="1000"
