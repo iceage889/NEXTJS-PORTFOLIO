@@ -4,7 +4,7 @@ export const Projects = [
     projectTitle: "Economics",
     projectDescription:
       "A sleek, responsive admin dashboard built with Next.js and Tailwind CSS.",
-    projectImage: "/public/images/eco-page.png",
+    projectImage: "/images/eco-page.png",
     projectPreviewLink: "#",
     projectSourceCode: "https://github.com/iceage889/my-epage",
   },
