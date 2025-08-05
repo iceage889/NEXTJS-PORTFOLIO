@@ -10,7 +10,7 @@ export const Projects = [
   },
   {
     id: 2,
-    projectTitle: "Minimalist Blog Website",
+    projectTitle: "ECO Website",
     projectDescription:
       "A clean, modern blog built with Next.js App Router and Tailwind CSS.",
     projectImage: "/images/eco-web.png",
